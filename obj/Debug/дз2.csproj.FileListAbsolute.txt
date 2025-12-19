@@ -1,0 +1,21 @@
+C:\Users\Дарья\Desktop\домашки\домашка 2\дз2\дз2\bin\Debug\дз2.exe.config
+C:\Users\Дарья\Desktop\домашки\домашка 2\дз2\дз2\bin\Debug\дз2.exe
+C:\Users\Дарья\Desktop\домашки\домашка 2\дз2\дз2\bin\Debug\дз2.pdb
+C:\Users\Дарья\Desktop\домашки\домашка 2\дз2\дз2\obj\Debug\дз2.csproj.AssemblyReference.cache
+C:\Users\Дарья\Desktop\домашки\домашка 2\дз2\дз2\obj\Debug\дз2.Form1.resources
+C:\Users\Дарья\Desktop\домашки\домашка 2\дз2\дз2\obj\Debug\дз2.Properties.Resources.resources
+C:\Users\Дарья\Desktop\домашки\домашка 2\дз2\дз2\obj\Debug\дз2.csproj.GenerateResource.cache
+C:\Users\Дарья\Desktop\домашки\домашка 2\дз2\дз2\obj\Debug\дз2.csproj.CoreCompileInputs.cache
+C:\Users\Дарья\Desktop\домашки\домашка 2\дз2\дз2\obj\Debug\дз2.exe
+C:\Users\Дарья\Desktop\домашки\домашка 2\дз2\дз2\obj\Debug\дз2.pdb
+C:\Users\korr\Documents\Отчёты и всё такое прочее\Корягин\дз2\дз2\bin\Debug\дз2.exe.config
+C:\Users\korr\Documents\Отчёты и всё такое прочее\Корягин\дз2\дз2\bin\Debug\дз2.exe
+C:\Users\korr\Documents\Отчёты и всё такое прочее\Корягин\дз2\дз2\bin\Debug\дз2.pdb
+C:\Users\korr\Documents\Отчёты и всё такое прочее\Корягин\дз2\дз2\obj\Debug\дз2.csproj.AssemblyReference.cache
+C:\Users\korr\Documents\Отчёты и всё такое прочее\Корягин\дз2\дз2\obj\Debug\дз2.csproj.SuggestedBindingRedirects.cache
+C:\Users\korr\Documents\Отчёты и всё такое прочее\Корягин\дз2\дз2\obj\Debug\дз2.Form1.resources
+C:\Users\korr\Documents\Отчёты и всё такое прочее\Корягин\дз2\дз2\obj\Debug\дз2.Properties.Resources.resources
+C:\Users\korr\Documents\Отчёты и всё такое прочее\Корягин\дз2\дз2\obj\Debug\дз2.csproj.GenerateResource.cache
+C:\Users\korr\Documents\Отчёты и всё такое прочее\Корягин\дз2\дз2\obj\Debug\дз2.csproj.CoreCompileInputs.cache
+C:\Users\korr\Documents\Отчёты и всё такое прочее\Корягин\дз2\дз2\obj\Debug\дз2.exe
+C:\Users\korr\Documents\Отчёты и всё такое прочее\Корягин\дз2\дз2\obj\Debug\дз2.pdb
